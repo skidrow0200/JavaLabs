@@ -11,8 +11,8 @@ pageEncoding="UTF-8"%>
 		<jsp:include page="jspf/header.jsp" />
 		<div id="main">
 			<ul>
-				<li><a href="/persons10lab/masters">Masters</a>
-				<li><a href="/persons10lab/services">Services</a>
+				<li><a href="/persons10lab/masters.jsp">Masters</a>
+				<li><a href="/persons10lab/services.jsp">Services</a>
 			</ul>
 		</div>
 		<jsp:include page="jspf/footer.jsp" />
